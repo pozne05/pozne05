@@ -2,7 +2,6 @@
 
 # Enzo POTIER — Data Science
 
-<img src="https://komarev.com/ghpvc/?username=pozne05&style=flat-square" alt="Profile views" />
 
 </div>
 

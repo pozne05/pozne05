@@ -10,7 +10,7 @@
 
 ## About me
 Master's student in **Data Science / Statistical Forecasting (URCA – Reims)**, seeking a **6-month internship starting early 2026**.  
-I build end-to-end analytics and ML solutions—from data preparation to modeling and dashboards—using **Python/R/SQL** with an emphasis on **reproducibility, clear communication, and production-minded code**.  
+I build end-to-end analytics and ML solutions from data preparation to modeling and dashboards using **Python/R/SQL** with an emphasis on **reproducibility, clear communication, and production-minded code**.  
 Main interests: **time series forecasting**, **econometrics**, and **interpretable machine learning**.
 
 

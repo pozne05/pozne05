@@ -60,7 +60,7 @@ Main interests: **time series forecasting**, **econometrics**, and **interpretab
 ---
 
 ## Contact
-- **Email:** [tonmail@gmail.com](potier.enzo@orange.fr)
+- **Email:** [potier.enzo@orange.fr](potier.enzo@orange.fr)
 - **Phone:** +33 7 85 50 60 48
 - **LinkedIn:** https://www.linkedin.com/in/enzo-p
 - **Portfolio:** 

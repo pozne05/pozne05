@@ -26,18 +26,6 @@ Main interests: **time series forecasting**, **econometrics**, and **interpretab
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### Python / R stack
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![dplyr](https://img.shields.io/badge/dplyr-276DC3?style=flat-square)
-![plm](https://img.shields.io/badge/plm-276DC3?style=flat-square)
 
 ### Predictive / Forecasting Models
 ![ARIMA](https://img.shields.io/badge/ARIMA-2F3C7E?style=flat-square)
@@ -46,10 +34,6 @@ Main interests: **time series forecasting**, **econometrics**, and **interpretab
 ![TimesFM](https://img.shields.io/badge/TimesFM-111111?style=flat-square)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB5B00?style=flat-square)
 ![Random%20Forest](https://img.shields.io/badge/Random%20Forest-1F7A1F?style=flat-square)
-
-### Data Viz / Apps
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)

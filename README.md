@@ -41,5 +41,4 @@ Business Analyst Intern - Natixis CIB
 ## Contact
 - **Email:** [potier.enzo@orange.fr](potier.enzo@orange.fr)
 - **Phone:** +33 7 85 50 60 48
-- **LinkedIn:** https://www.linkedin.com/in/enzo-p
-- **Portfolio:** 
+- **LinkedIn:** https://www.linkedin.com/in/enzo-p 
